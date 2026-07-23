@@ -8,15 +8,17 @@ type: readme
 This is a readme for navigating the project and where things go.
 
 ## Project Structure
-| path        | purpose                                |
-|-------------|----------------------------------------|
-| /billing    | Billing documents                      |
-| /events     | Significant project timeline events    |
-| /feedback   | Client feedback                        |
-| /meetings   | Meeting notes                          |
-| /plans      | Planning documents                     |
-| /prototypes | Prototypes and intelligent docs        |
-| /scratch    | Ephemera and scratch notes             |
-| /todos      | Project task tracking                  |
-| /references | URLs to non-codebase project resources |
-| /research   | Project research                       |
+Structrures shown here are relative to this project folder.
+
+| path        | type | purpose                                |
+|-------------|------|----------------------------------------|
+| /billing    | dir  | Billing documents                      |
+| events.md   | file | Significant project timeline events    |
+| /feedback   | dir  | Client feedback                        |
+| /meetings   | dir  | Meeting notes                          |
+| /plans      | dir  | Planning documents                     |
+| /prototypes | dir  | Prototypes and intelligent docs        |
+| /scratch    | dir  | Ephemera and scratch notes             |
+| todos.md    | file | Project task tracking                  |
+| /references | dir  | URLs to non-codebase project resources |
+| /research   | dir  | Project research                       |
