@@ -1,0 +1,7 @@
+# Client Index
+This is a place to match the clients with their client directories in the codebase.
+
+## Clients
+| slug | client              | path |
+|------|---------------------|------|
+| atc  | All Things Concrete | /atc |
