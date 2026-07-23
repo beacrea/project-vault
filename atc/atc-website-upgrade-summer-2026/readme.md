@@ -11,6 +11,7 @@ This is a readme for navigating the project and where things go.
 | path        | purpose                                |
 |-------------|----------------------------------------|
 | /billing    | Billing documents                      |
+| /events     | Significant project timeline events    |
 | /feedback   | Client feedback                        |
 | /meetings   | Meeting notes                          |
 | /plans      | Planning documents                     |
