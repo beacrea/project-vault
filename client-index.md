@@ -1,3 +1,9 @@
+---
+name: client index
+purpose: A list of clients and their ids
+level: global
+---
+
 # Client Index
 This is a place to match the clients with their client directories in the codebase.
 
