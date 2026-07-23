@@ -1,6 +1,7 @@
 ---
 name: client index
 purpose: A list of clients and their ids
+type: index
 level: global
 ---
 
