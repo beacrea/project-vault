@@ -1,9 +1,10 @@
 ---
-id: atc-website-upgrade-summer-2026
 client: atc
+project: overview
 circa: 07/2026
-type: readme
-level: project
+type: overview
+tags:
+  - client-atc
 ---
 
 # Project Index

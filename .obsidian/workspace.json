@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "atc/client-overview-atc.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "client-overview-atc"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4efddd7a4ff61056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4229f5dbe3d07321",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks"
             }
           },
           {
@@ -183,9 +198,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b4ef14a5b45b5ff9",
+  "active": "4229f5dbe3d07321",
   "lastOpenFiles": [
-    "readme.md",
+    "atc/website-upgrade-2026/proj-overview-atc-website-upgrade-2026.md",
+    "atc/client-overview-atc.md",
+    "vault-readme.md",
+    "client-index.md",
     "Untitled.canvas"
   ]
 }
