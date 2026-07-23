@@ -1,3 +1,10 @@
+---
+name: project index
+purpose: An index of all the client projects across the codebase and their details.
+type: index
+level: global
+---
+
 # Project Index
 An index of all the client projects across the codebase and their details.
 
