@@ -4,7 +4,6 @@ purpose: A central manifest of client projects
 type: index
 level: global
 ---
-
 # Client Index
 This is a place to match the clients with their client directories in the codebase.
 
