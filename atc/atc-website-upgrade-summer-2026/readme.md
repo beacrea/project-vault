@@ -1,9 +1,10 @@
-```
+---
 id: atc-website-upgrade-summer-2026
 client: atc
 circa: 07/2026
 type: readme
-```
+---
+
 # Project Index
 This is a readme for navigating the project and where things go.
 
